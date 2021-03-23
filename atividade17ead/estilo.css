@@ -1,0 +1,15 @@
+div {
+	width:  270px;
+	float: left;
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	font-weight: bold;
+	border: 2px solid #7fffd4;
+	border-radius: 30px; 
+}
+
+
+h1 {
+	text-align: center;
+}

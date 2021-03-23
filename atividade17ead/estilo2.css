@@ -1,0 +1,24 @@
+div #descricao
+{
+	height: 320px;
+	text-align: left;
+	vertical-align: top;
+	padding:5px;
+	float: left;
+	line-height: 25px;
+	margin-left: 15px;
+}
+
+div #imagem 
+{
+	height: 320px;
+	float: left;
+	vertical-align: middle;
+	padding:5px;
+}
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+}

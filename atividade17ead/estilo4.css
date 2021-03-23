@@ -1,0 +1,16 @@
+table {
+	border:solid thin #a6200c;
+}
+
+th {
+	color: #fff;
+	background-color: #468966;
+	text-align: left;
+	padding: 5px;
+}
+
+td {
+	background-color: #a1b06a;
+	padding: 5px;
+	border-top: solid 1px #a6200c;
+}
